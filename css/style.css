@@ -32,7 +32,7 @@
 {
 width:40px;
 height:40px;
-  
+  margin-right: 10px;
 
 }
 
@@ -43,7 +43,7 @@ height:40px;
     .dIzquierda{
 width:40px;
 height:40px;
- 
+ margin-right: 10px;
 }
 
 
@@ -52,7 +52,7 @@ height:40px;
     .dDerecha{
 width:40px;
 height:40px;
-
+margin-right: 10px;
 }
 
 
@@ -61,7 +61,7 @@ height:40px;
     .dAbajo{
 width:40px;
 height:40px;
-  
+  margin-right: 10px;
 }
 
 
