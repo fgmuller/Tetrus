@@ -1,4 +1,65 @@
-    
+/* Inicio estructura Responsive Design*/
+/* Más pequeño que 960px (móviles, tablets y navegadores) */
+
+@media screen and (max-width: 960px) {
+/* Navegadores tipo ipad*/
+/*definimos un ancho definido en el contenedor principal*/
+#main{width: 708px;}
+/*aumentamos tamaño de fuente de forma global*/
+body, input, textarea { font-size: 110%; }
+/*redefinimos la estructura para evitar que floten los contenedores y quitamos el bloque lateral para situarlo a continuación del contenido y así mejorar la legibilidad del texto (usabilidad)*/
+#wrapper #sidebar { float: none; margin: 0;width: auto; }
+/*hacemos que el bloque de contenido utilice todo el ancho disponible*/
+#content {margin: 0; width: 100%;background-color: #fff;}
+/*ocultamos el bloque de búsqueda*/
+#search-box {display: none; }
+}
+
+@media screen and (max-width: 767px) {
+/* Navegadores tipo tablet de 7px*/
+/*definimos un ancho definido en el contenedor principal*/
+#main{width:480px;}
+/*aumentamos tamaño de fuente de forma global*/
+body, input, textarea { font-size: 120%; }
+}
+
+@media screen and (max-width: 479px) {
+/* Navegadores tipo iphone*/
+/*definimos un ancho definido en el contenedor principal*/
+#main{width:320px;}
+/*aumentamos tamaño de fuente de forma global*/
+body, input, textarea { font-size: 130%; }
+/*reducimos el padding del contenedor de cabecera para que se vea correctamente para los móviles más pequeños */
+#header {padding: 1px; }
+}
+
+@media screen and (max-width: 319px) {
+/* Navegadores tipo móvil pequeño*/
+/*definimos un ancho del 100% a partir del ancho de 320px anterior*/
+#main{width:100%;}
+}
+
+/* Final estructura Responsive */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       .contenedor-imagenes {
   display: flex;
 }
