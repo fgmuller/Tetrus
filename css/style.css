@@ -1,3 +1,60 @@
+
+
+.dGirar
+{
+width:300px;
+height:80px;
+padding-bottom:1px;
+margin: 10px 0px;
+Top:300px  
+
+}
+
+
+
+
+
+    .dIzquierda{
+width:300px;
+height:80px;
+padding-bottom:1px;
+margin: 10px 50px;
+Top:300px  
+}
+
+
+
+
+    .dDerecha{
+width:300px;
+height:80px;
+padding-bottom:1px;
+margin: 10px 100px;
+Top:300px  
+}
+
+
+
+
+    .dAbajo{
+width:300px;
+height:80px;
+padding-bottom:1px;
+margin: 10px 150px;
+Top:300px  
+}
+
+
+
+
+
+
+
+
+
+
+
+
 :root {
   /* default font size in browsers is 16px = 1em, we make
      things easier for us and make 10px our base size.
