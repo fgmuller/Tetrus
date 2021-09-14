@@ -99,7 +99,7 @@ body {
   margin: auto;
   max-width: 60rem;
   color: #d8edea;
-  background: no-repeat center/80% url("https://static.wixstatic.com/media/cc320b_70fbcd32055249879153828cb51eb1df~mv2.gif");
+  background: url("https://raw.githubusercontent.com/fgmuller/Tetrus/master/images/Fondotetrus.png") repeat-y;
 }
 
 header {
