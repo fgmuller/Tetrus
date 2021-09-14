@@ -206,7 +206,7 @@ document.addEventListener('DOMContentLoaded', () => {
   //Game Over
   function gameOver() {
     if (current.some(index => squares[currentPosition + index].classList.contains('block2'))) {
-      scoreDisplay.innerHTML = 'Finalizado'
+      scoreDisplay.innerHTML = 'Final'
       clearInterval(timerId);
       detener();
     }
