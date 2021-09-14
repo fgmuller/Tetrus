@@ -99,12 +99,7 @@ body {
   margin: auto;
   max-width: 60rem;
   color: #d8edea;
-  background: radial-gradient(
-    circle,
-    rgba(175, 196, 174, 1) 0%,
-    rgba(104, 204, 191, 1) 89%,
-    rgba(94, 191, 178, 1) 100%
-  );
+  background: no-repeat center/80% url("https://static.wixstatic.com/media/cc320b_70fbcd32055249879153828cb51eb1df~mv2.gif");
 }
 
 header {
