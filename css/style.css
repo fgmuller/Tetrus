@@ -1,12 +1,5 @@
 
 
-.footer t-ucase{
-  color: #000000;
-}
-
-
-
-
 
 
 
@@ -116,7 +109,10 @@ div {
 
 /* some utility classes */
 .t-ucase {
-  text-transform: uppercase;
+  
+  text-align: center;
+  
+  color: #000000;
 }
 
 .t-big {
