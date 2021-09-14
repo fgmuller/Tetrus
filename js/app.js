@@ -56,10 +56,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   
-                   document.getElementById("imagen1").addEventListener("click",rotate();  
-                         document.getElementById("imagen2").addEventListener("click", moveleft();                                              
-                              document.getElementById("imagen3").addEventListener("click", moveright();                                         
-                                document.getElementById("imagen4").addEventListener("click", moveDown();                              
+                   document.getElementById("dibujo1").addEventListener("click",rotate);  
+                         document.getElementById("dibujo2").addEventListener("click", moveleft);                                              
+                              document.getElementById("dibujo3").addEventListener("click", moveright);                                         
+                                document.getElementById("dibujo4").addEventListener("click", moveDown);                              
                                                   
                                                                           
                                                                           
