@@ -1,53 +1,11 @@
-
-
-.dGirar
-{
-width:40px;
-height:40px;
-padding-bottom:1px;
-margin: 10px 0px;
-Top:300px  
-
+    
+      .contenedor-imagenes {
+  display: flex;
 }
 
-
-
-
-
-    .dIzquierda{
-width:40px;
-height:40px;
-padding-bottom:1px;
-margin: 10px 40px;
-Top:300px  
+.contenedor-imagenes img:first-child {
+  margin-right: 10px;
 }
-
-
-
-
-    .dDerecha{
-width:40px;
-height:40px;
-padding-bottom:1px;
-margin: 10px 80px;
-Top:300px  
-}
-
-
-
-
-    .dAbajo{
-width:40px;
-height:40px;
-padding-bottom:1px;
-margin: 10px 120px;
-Top:300px  
-}
-
-
-
-
-
 
 
 
