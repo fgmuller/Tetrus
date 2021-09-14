@@ -2,8 +2,8 @@
 
 .dGirar
 {
-width:300px;
-height:80px;
+width:40px;
+height:40px;
 padding-bottom:1px;
 margin: 10px 0px;
 Top:300px  
@@ -15,10 +15,10 @@ Top:300px
 
 
     .dIzquierda{
-width:300px;
-height:80px;
+width:40px;
+height:40px;
 padding-bottom:1px;
-margin: 10px 50px;
+margin: 10px 40px;
 Top:300px  
 }
 
@@ -26,10 +26,10 @@ Top:300px
 
 
     .dDerecha{
-width:300px;
-height:80px;
+width:40px;
+height:40px;
 padding-bottom:1px;
-margin: 10px 100px;
+margin: 10px 80px;
 Top:300px  
 }
 
@@ -37,10 +37,10 @@ Top:300px
 
 
     .dAbajo{
-width:300px;
-height:80px;
+width:40px;
+height:40px;
 padding-bottom:1px;
-margin: 10px 150px;
+margin: 10px 120px;
 Top:300px  
 }
 
