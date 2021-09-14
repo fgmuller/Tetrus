@@ -56,13 +56,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   
-  document.addEventListener("mouseright", moveright);
-document.addEventListener("mouseleft", moveleft);
-document.addEventListener("mouseup", rotate);
-document.addEventListener("mousedown", moveDown);
-  
-  
-  
+                   document.getElementById("imagen1").addEventListener("click",rotate();  
+                         document.getElementById("imagen2").addEventListener("click", moveleft();                                              
+                              document.getElementById("imagen3").addEventListener("click", moveright();                                         
+                                document.getElementById("imagen4").addEventListener("click", moveDown();                              
+                                                  
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                    
   
   //assign functions to keycodes
   function control(e) {
