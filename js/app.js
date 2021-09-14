@@ -55,6 +55,15 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
+  
+  document.addEventListener("mouseright", moveright);
+document.addEventListener("mouseleft", moveleft);
+document.addEventListener("mouseup", rotate);
+document.addEventListener("mousedown", moveDown);
+  
+  
+  
+  
   //assign functions to keycodes
   function control(e) {
     if (e.keyCode === 39)
