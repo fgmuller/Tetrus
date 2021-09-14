@@ -1,6 +1,8 @@
 
 
-
+.footer t-ucase{
+  color: #000000;
+}
 
 
 
@@ -98,7 +100,7 @@ body {
   font-size: 1.6rem;
   margin: auto;
   max-width: 60rem;
-  color: #d8edea;
+  color: #004AAD;
   background: url("https://raw.githubusercontent.com/fgmuller/Tetrus/master/images/Fondotetrus.png") repeat-y;
 }
 
