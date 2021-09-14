@@ -1,3 +1,0 @@
-# Tetrus
-
-RETUS
