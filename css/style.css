@@ -419,23 +419,23 @@ div {
   font-family: "Montserrat", sans-serif;
   font-size: 1.6rem;
   margin: 1rem;
-    width: 300px;
-  height: auto;
+    width: 5rem;
+  height: 15rem;
   color: #004AAD; 
-   Initial-scale:2,5;         
+         
   background: url("https://raw.githubusercontent.com/fgmuller/Tetrus/master/images/Fondotetrus.png") repeat-y;
 }
       
        div{
-        width:300px;
-        height:auto;
-        margin-left:10px;
+        width:5rem;
+        height:30rem;
+        margin-left:1rem;
     }
       
     .game-area  {
-        width:300px;
-        height:auto;
-        margin-left:10px;
+        width:5rem;
+        height:15rem;
+        margin-left:1rem;
     }
       
       
