@@ -1,3 +1,0 @@
-# Tetrus
-
-HIPER MEGA TETRUS
