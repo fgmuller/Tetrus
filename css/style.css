@@ -392,6 +392,10 @@ div {
   transition: color 0.4s ease;
 }
 
+
+
+
+
 .key {
   color: #f8de7e;
 }
@@ -400,3 +404,15 @@ div {
   border-radius: 5px;
   color: rgba(24, 39, 51, 0.85);
 }
+
+
+
+
+@media screen and (max-width: 850px){
+
+    main{
+        margin-top: 50px;
+
+
+
+
