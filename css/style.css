@@ -419,10 +419,10 @@ div {
   font-size: 1.6rem;
   margin: 1rem;
   max-width: 1rem;
-  color: #004AAD;
+  color: #004AAD; 
+   Initial-scale:2,5;         
   background: url("https://raw.githubusercontent.com/fgmuller/Tetrus/master/images/Fondotetrus.png") repeat-y;
 }
-      
       
       
       
