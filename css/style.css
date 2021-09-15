@@ -407,24 +407,30 @@ div {
 
 
 
-
 @media screen and (max-width: 850px){
 
     main{
-        margin-top: 50px;
+       width:100%;
+        height:auto;
+        margin-left:10px;
     }
       
       body {
   font-family: "Montserrat", sans-serif;
   font-size: 1.6rem;
   margin: 1rem;
-  max-width: 1rem;
+    width: 100%;
+  height: auto;
   color: #004AAD; 
    Initial-scale:2,5;         
   background: url("https://raw.githubusercontent.com/fgmuller/Tetrus/master/images/Fondotetrus.png") repeat-y;
 }
       
-      
+       div{
+        width:100%;
+        height:auto;
+        margin-left:10px;
+    }
       
       
       
