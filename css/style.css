@@ -419,7 +419,7 @@ div {
   font-family: "Montserrat", sans-serif;
   font-size: 1.6rem;
   margin: 1rem;
-    width: 100%;
+    width: 300px;
   height: auto;
   color: #004AAD; 
    Initial-scale:2,5;         
@@ -427,12 +427,16 @@ div {
 }
       
        div{
-        width:100%;
+        width:300px;
         height:auto;
         margin-left:10px;
     }
       
-      
+    .game-area  {
+        width:300px;
+        height:auto;
+        margin-left:10px;
+    }
       
       
       
